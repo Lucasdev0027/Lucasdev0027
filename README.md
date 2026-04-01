@@ -43,7 +43,16 @@
 
 ###
 
-<h3 align="left"></h3>
+<h3 align="left">Contributions</h3>
 
 ###
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasdev0027/Lucasdev0027/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasdev0027/Lucasdev0027/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lucasdev0027/Lucasdev0027/output/pacman-contribution-graph.svg">
+</picture>
+
+###
